@@ -1,0 +1,2 @@
+# postChannelBudgedTimeAveragedV1
+postprocesador para timeaveraged budget
